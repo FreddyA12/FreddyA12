@@ -2,6 +2,7 @@
 ![Banner](banner.png)
 
 # Welcome to My GitHub Profile! 👋
+
 Hello, I'm Freddy Alvarez, a  software student at the Technical University of Ambato. I specialize in Java programming, web development, and have a strong interest in backend. 
 In my free time, I enjoy exploring the world of the technology and I like to programm.
 
@@ -16,4 +17,4 @@ In my free time, I enjoy exploring the world of the technology and I like to pro
 ![Freddy Alvarez's GitHub stats](https://github-readme-stats.vercel.app/api?username=FreddyA12&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FreddyA12&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
-- **Portfolio:** [https://freddya12.github.io/ProfilePersonal/)
+- **Portfolio:** https://freddya12.github.io/ProfilePersonal/
